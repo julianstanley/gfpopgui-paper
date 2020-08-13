@@ -1,26 +1,30 @@
 ---
-title: "Manuscript Title"
+title: "An Online Tool for Interactive Graph-Constrained Change-point Detection"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - change-point detection
+  - constrained inference
+  - maximum likelihood inference
+  - robust losses
+  - shiny
+  - plotly
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: julianstanley
+    name: Julian Alexander Stanley
+    initials: JAS
+    orcid: 0000-0002-9193-3791X
+    email: julianst@mit.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Department of Biology, Massachusetts Institute of Technology
+  - name: Guillem Rigaill
+    initials: GR
+    email: rigail@evry.inra.fr
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - French National Institute for Agriculture, Food, and Environment
+  - github: tdhock
+    name: Toby Dylan Hocking
+    initials: TDH
+    orcid: 0000-0002-3146-0865
+    email: toby.hocking@nau.edu
+    affiliations:
+      - School of Informatics, Computing, and Cyber Systems, Northern Arizona University
