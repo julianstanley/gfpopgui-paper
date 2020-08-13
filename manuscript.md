@@ -68,11 +68,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://julianstanley.github.io/gfpopgui-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/" />
+  <link rel="alternate" type="text/html" href="https://julianstanley.github.io/gfpopgui-paper/v/67ce52eaa52ade88d59451879ead1af6f71d0ffe/" />
 
-  <meta name="manubot_html_url_versioned" content="https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/" />
+  <meta name="manubot_html_url_versioned" content="https://julianstanley.github.io/gfpopgui-paper/v/67ce52eaa52ade88d59451879ead1af6f71d0ffe/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://julianstanley.github.io/gfpopgui-paper/v/67ce52eaa52ade88d59451879ead1af6f71d0ffe/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,9 +107,9 @@ title: An Online Tool for Interactive Graph-Constrained Change-point Detection
 
 <small><em>
 This manuscript
-([permalink](https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/))
+([permalink](https://julianstanley.github.io/gfpopgui-paper/v/67ce52eaa52ade88d59451879ead1af6f71d0ffe/))
 was automatically generated
-from [julianstanley/gfpopgui-paper@4c7494e](https://github.com/julianstanley/gfpopgui-paper/tree/4c7494e6981a069dd47bfa70a212662a1269dc98)
+from [julianstanley/gfpopgui-paper@67ce52e](https://github.com/julianstanley/gfpopgui-paper/tree/67ce52eaa52ade88d59451879ead1af6f71d0ffe)
 on August 13, 2020.
 </em></small>
 
@@ -144,8 +144,13 @@ on August 13, 2020.
 
 ## Abstract {.page_break_before}
 
+Here is a test abstract.
 
+I believe that it also supports basic tex. @eq:first-equation
 
+$$\sum_{k=1}^{n}x_k$$ {#eq:first-equation}
+
+Citations can also work by URL. For example, [@url:https://arxiv.org/abs/1810.00117].
 
 ## References {.page_break_before}
 
