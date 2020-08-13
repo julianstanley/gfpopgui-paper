@@ -44,7 +44,7 @@ header-includes: '<!--
 
   <meta name="citation_author_institution" content="Department of Biology, Massachusetts Institute of Technology" />
 
-  <meta name="citation_author_orcid" content="0000-0002-9193-3791X" />
+  <meta name="citation_author_orcid" content="0000-0002-9193-3791" />
 
   <meta name="citation_author" content="Guillem Rigaill" />
 
@@ -56,23 +56,23 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="0000-0002-3146-0865" />
 
-  <link rel="canonical" href="https://julianstanley.github.io/gfpopgui_paper/" />
+  <link rel="canonical" href="https://julianstanley.github.io/gfpopgui-paper/" />
 
-  <meta property="og:url" content="https://julianstanley.github.io/gfpopgui_paper/" />
+  <meta property="og:url" content="https://julianstanley.github.io/gfpopgui-paper/" />
 
-  <meta property="twitter:url" content="https://julianstanley.github.io/gfpopgui_paper/" />
+  <meta property="twitter:url" content="https://julianstanley.github.io/gfpopgui-paper/" />
 
-  <meta name="citation_fulltext_html_url" content="https://julianstanley.github.io/gfpopgui_paper/" />
+  <meta name="citation_fulltext_html_url" content="https://julianstanley.github.io/gfpopgui-paper/" />
 
-  <meta name="citation_pdf_url" content="https://julianstanley.github.io/gfpopgui_paper/manuscript.pdf" />
+  <meta name="citation_pdf_url" content="https://julianstanley.github.io/gfpopgui-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="application/pdf" href="https://julianstanley.github.io/gfpopgui_paper/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://julianstanley.github.io/gfpopgui-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://julianstanley.github.io/gfpopgui_paper/v/bdff5407488cfe0f682b40473353b6a92d0e4055/" />
+  <link rel="alternate" type="text/html" href="https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/" />
 
-  <meta name="manubot_html_url_versioned" content="https://julianstanley.github.io/gfpopgui_paper/v/bdff5407488cfe0f682b40473353b6a92d0e4055/" />
+  <meta name="manubot_html_url_versioned" content="https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://julianstanley.github.io/gfpopgui_paper/v/bdff5407488cfe0f682b40473353b6a92d0e4055/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,9 +107,9 @@ title: An Online Tool for Interactive Graph-Constrained Change-point Detection
 
 <small><em>
 This manuscript
-([permalink](https://julianstanley.github.io/gfpopgui_paper/v/bdff5407488cfe0f682b40473353b6a92d0e4055/))
+([permalink](https://julianstanley.github.io/gfpopgui-paper/v/4c7494e6981a069dd47bfa70a212662a1269dc98/))
 was automatically generated
-from [julianstanley/gfpopgui_paper@bdff540](https://github.com/julianstanley/gfpopgui_paper/tree/bdff5407488cfe0f682b40473353b6a92d0e4055)
+from [julianstanley/gfpopgui-paper@4c7494e](https://github.com/julianstanley/gfpopgui-paper/tree/4c7494e6981a069dd47bfa70a212662a1269dc98)
 on August 13, 2020.
 </em></small>
 
@@ -119,7 +119,7 @@ on August 13, 2020.
 
 + **Julian Alexander Stanley**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0002-9193-3791X](https://orcid.org/0000-0002-9193-3791X)
+    [0000-0002-9193-3791](https://orcid.org/0000-0002-9193-3791)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [julianstanley](https://github.com/julianstanley)<br>
   <small>
