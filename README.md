@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/julianstanley/gfpopgui_paper/tree/gh-pages) branch hosts the contents of this directory at <https://julianstanley.github.io/gfpopgui_paper/>.
-The permalink for this webpage version is <https://julianstanley.github.io/gfpopgui_paper/v/dfcf52a1f16e1ef9de2b2599b7d2e782db7a3d74/>.
+The permalink for this webpage version is <https://julianstanley.github.io/gfpopgui_paper/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://julianstanley.github.io/gfpopgui_paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`dfcf52a1f16e1ef9de2b2599b7d2e782db7a3d74`](https://github.com/julianstanley/gfpopgui_paper/commit/dfcf52a1f16e1ef9de2b2599b7d2e782db7a3d74).
+[`0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc`](https://github.com/julianstanley/gfpopgui_paper/commit/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc).
